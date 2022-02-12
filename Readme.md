@@ -33,7 +33,7 @@
 </hr> 
 
 # Fᴏʀᴋ ᴀɴᴅ sᴛᴀʀs 
-<a href="https://github.com/AstroUB/Astro-UB/stargazers"><img src="https://img.shields.io/github/stars/AstroUB/Astro-UB?style=social"></a> 
+<a href="https://github.com/AstroUB/Astro-UB/vishalokk"><img src="https://img.shields.io/github/stars/AstroUB/Astro-UB?style=social"></a> 
 <a href="https://github.com/AstroUB/Astro-UB/fork"><img src="https://img.shields.io/github/forks/AstroUB/Astro-UB?label=Fork&logoColor=blue&style=social"></a> <br>  
 <hr/> 
 
